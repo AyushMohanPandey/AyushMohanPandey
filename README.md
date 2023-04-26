@@ -41,6 +41,6 @@ Here are some ideas to get you started:
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushMohanPandey&layout=compact" alt="AyushMohanPandey" /></p>
 
-<p><img height="400px" width="450px" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushmohanpandey&" alt="ayushmohanpandey"/></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushmohanpandey&" alt="ayushmohanpandey"/></p>
 </br>
-<p>&nbsp;<img height="400px" width="450px" align="center" src="https://github-readme-stats.vercel.app/api?username=AyushMohanPandey&show_icons=true" alt="AyushMohanPandey" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AyushMohanPandey&show_icons=true" alt="AyushMohanPandey" /></p>
